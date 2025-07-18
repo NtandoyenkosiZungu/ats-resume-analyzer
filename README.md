@@ -1,14 +1,5 @@
-# Run and deploy your AI Studio app
+<img width="1262" height="857" alt="image" src="https://github.com/user-attachments/assets/eac253d6-b596-4ddf-80bd-57a0b990ec63" />
 
-This contains everything you need to run your app locally.
+A simple resume analyzer web site.
+It utilizes Gemini 2.5 Flash to compare the text from your resume and the job description to identify key strengths and weaknesses in order to suggest improvements for a better ATS Score.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
