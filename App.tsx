@@ -118,7 +118,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center py-6 text-slate-500 text-sm">
-        Powered by Gemini AI & React. Crafted for clarity.
+        Powered By Gemini - Crafted for clarity By Ntandoyenkosi Zungu
       </footer>
     </div>
   );
